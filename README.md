@@ -1,6 +1,6 @@
 ## Publications
 
-* **Liu, S.**, Valks, P., Pinardi, G., Xu, J., Chan, K. L., Argyrouli, A., Lutz, R., Beirle, S., Khorsandi, E., Baier, F., Huijnen, V., Bais, A., Donner, S., Dörner, S., Gratsea, M., Hendrick, F., Karagkiozidis, D., Lange, K., Piters, A. J. M., Remmers, J., Richter, A., Van Roozendael, M., Wagner, T., Wenig, M., and Loyola, D. G.: An improved TROPOMI tropospheric NO2 research product over Europe, Atmos. Meas. Tech., 14, 7297–7327, https://doi.org/10.5194/amt-14-7297-2021, 2021.
+* **Liu, S.**, Valks, P., Pinardi, G., Xu, J., Chan, K. L., Argyrouli, A., Lutz, R., Beirle, S., Khorsandi, E., Baier, F., Huijnen, V., Bais, A., Donner, S., Dörner, S., Gratsea, M., Hendrick, F., Karagkiozidis, D., Lange, K., Piters, A. J. M., Remmers, J., Richter, A., Van Roozendael, M., Wagner, T., Wenig, M., and Loyola, D. G.: An improved TROPOMI tropospheric NO2 research product over Europe, Atmos. Meas. Tech., 14, 7297–7327, 20201, [原文链接](https://doi.org/10.5194/amt-14-7297-2021).
 
 * **Liu, S.**, Valks, P., Beirle, S., and Loyola, D. G.: Nitrogen dioxide decline and rebound observed by GOME-2 and TROPOMI during COVID-19 pandemic, Air Qual Atmos Health, 14, 1737-1755, https://doi.org/10.1007/s11869-021-01046-2, 2021.
 
